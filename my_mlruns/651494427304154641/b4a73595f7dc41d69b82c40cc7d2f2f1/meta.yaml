@@ -1,0 +1,15 @@
+artifact_uri: file:C:\GitHub\Producto\PRE-08-mlflow-tracking-local-cegarciao\my_mlruns/651494427304154641/b4a73595f7dc41d69b82c40cc7d2f2f1/artifacts
+end_time: 1748724876322
+entry_point_name: ''
+experiment_id: '651494427304154641'
+lifecycle_stage: active
+run_id: b4a73595f7dc41d69b82c40cc7d2f2f1
+run_name: knn_4d7b1681
+run_uuid: b4a73595f7dc41d69b82c40cc7d2f2f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748724876021
+status: 3
+tags: []
+user_id: cesar
